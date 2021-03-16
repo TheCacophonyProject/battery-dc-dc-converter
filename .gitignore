@@ -27,3 +27,7 @@ fp-info-cache
 *.xml
 *.csv
 
+# Generated production files 
+/battery-dc-dc-converter
+/output.*
+
