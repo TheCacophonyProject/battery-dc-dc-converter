@@ -438,7 +438,7 @@
 		(path "/00000000-0000-0000-0000-00006037dd21")
 		(sheetname "Root")
 		(sheetfile "battery-dc-dc-converter.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "1" thru_hole roundrect
 			(at 0 -0.1)
 			(size 2.5 4.5)
@@ -519,7 +519,7 @@
 		(path "/00000000-0000-0000-0000-0000603798f3")
 		(sheetname "Root")
 		(sheetfile "battery-dc-dc-converter.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "1" thru_hole roundrect
 			(at 0 -0.1)
 			(size 2.5 4.5)
