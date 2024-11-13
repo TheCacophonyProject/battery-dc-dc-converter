@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name scooter-ps)(type Legacy)(uri ${KIPRJMOD}/librarys/scooter-ps.lib)(options "")(descr ""))
-)

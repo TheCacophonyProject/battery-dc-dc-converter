@@ -28,7 +28,6 @@ fp-info-cache
 *.csv
 
 # Generated production files 
-/battery-dc-dc-converter
 /output.*
 /jlcpcb
 /production
@@ -36,3 +35,5 @@ fp-info-cache
 *.lck
 *.zip
 /fabrication-output/*
+*.gz
+/generated-pcbs
